@@ -85,7 +85,7 @@ Values    →  Simplicity · Reliability · Developer Experience
 
 <div align="center">
 
-<img src="https://github-readme-stats.vercel.app/api?username=jay123anta&show_icons=true&theme=github_dark&hide_border=true&bg_color=0d1117&title_color=ffffff&icon_color=ffffff&text_color=999999&border_radius=6&include_all_commits=true&count_private=true" height="170" />
+<img src="https://github-readme-stats.vercel.app/api?username=jay123anta&show_icons=true&theme=github_dark&hide_border=true&bg_color=0d1117&title_color=ffffff&icon_color=ffffff&text_color=999999&border_radius=6&count_private=true" height="170" />
 &nbsp;
 <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=jay123anta&layout=compact&theme=github_dark&hide_border=true&bg_color=0d1117&title_color=ffffff&text_color=999999&border_radius=6&langs_count=6" height="170" />
 
