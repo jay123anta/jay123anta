@@ -1,87 +1,107 @@
 <div align="center">
 
-<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0:000000,100:1a1a1a&height=180&section=header&text=jay123anta&fontSize=72&fontColor=ffffff&fontAlignY=38&fontStyle=bold&desc=Software%20Developer&descAlignY=60&descSize=16&descColor=aaaaaa&animation=fadeIn" />
+<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0:000000,50:111111,100:1a1a1a&height=200&section=header&text=jay123anta&fontSize=75&fontColor=ffffff&fontAlignY=40&fontStyle=bold&animation=fadeIn&desc=📍%20India&descAlignY=62&descSize=15&descColor=777777" />
 
+<!-- Animated typing -->
 <a href="https://github.com/jay123anta">
-  <img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=500&size=18&pause=1200&color=FFFFFF&center=true&vCenter=true&width=500&height=40&lines=Building+secure+Laravel+systems.;Crafting+open+source+packages.;Writing+clean%2C+purposeful+code." alt="Typing SVG" />
+  <img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=600&size=20&pause=1000&color=FFFFFF&center=true&vCenter=true&width=520&height=45&lines=🔐+Laravel+Security+Engineer;📦+Open+Source+Package+Author;⚙️+API+Architecture+Specialist;🛠️+Building+tools+developers+love." alt="Typing SVG" />
 </a>
 
-<br/><br/>
+<br/>
 
+<!-- Animated banner line -->
+<img src="https://raw.githubusercontent.com/andreasbm/readme/master/assets/lines/rainbow.png" width="100%" />
+
+<!-- Badges -->
 <img src="https://komarev.com/ghpvc/?username=jay123anta&label=Profile+Views&color=111111&style=flat-square&labelColor=000000" />
 &nbsp;
 <a href="https://github.com/jay123anta?tab=followers">
   <img src="https://img.shields.io/github/followers/jay123anta?label=Followers&style=flat-square&color=111111&labelColor=000000&logo=github&logoColor=white" />
 </a>
-
-</div>
-
-<br/>
-
----
-
-## `$ whoami`
-
-```
-Name      →  jay123anta
-Focus     →  Laravel · Security · API Architecture
-Builds    →  Open source packages for the PHP ecosystem
-Values    →  Simplicity · Reliability · Developer Experience
-```
-
----
-
-## Featured Repositories
-
-<div align="center">
-
-<a href="https://github.com/jay123anta/laravel-threat-detection">
-  <img src="https://github-readme-stats.vercel.app/api/pin/?username=jay123anta&repo=laravel-threat-detection&theme=github_dark&hide_border=true&bg_color=0d1117&title_color=ffffff&icon_color=ffffff&text_color=999999&border_radius=6" />
-</a>
 &nbsp;
-<a href="https://github.com/jay123anta/laravel-api-versionist">
-  <img src="https://github-readme-stats.vercel.app/api/pin/?username=jay123anta&repo=laravel-api-versionist&theme=github_dark&hide_border=true&bg_color=0d1117&title_color=ffffff&icon_color=ffffff&text_color=999999&border_radius=6" />
-</a>
+<img src="https://img.shields.io/badge/Based%20In-India%20🇮🇳-111111?style=flat-square&labelColor=000000" />
 
 </div>
 
+<br/>
+
 ---
 
-## Tech Stack
+## ❯ About Me
+
+<img align="right" width="200" src="https://github-readme-stats.vercel.app/api/wakatime?username=jay123anta&theme=github_dark&hide_border=true&bg_color=0d1117&border_radius=6&hide_title=true&layout=compact" />
+
+I'm a **software developer from India 🇮🇳** who specialises in building **secure, scalable Laravel systems** and **open source PHP packages** that real developers use in production.
+
+I care deeply about:
+- 🔐 **Security** — stopping threats before they reach your app
+- ⚡ **Performance** — code that is fast by design
+- 🧩 **Developer Experience** — APIs that feel natural to use
+- 📦 **Open Source** — giving back to the PHP community
+
+Currently building tools in the **Laravel security & API versioning** space with real-world impact — my packages have earned **33+ stars** and are used in production environments worldwide.
+
+> *"Write code that protects. Build tools that last."*
+
+<br/>
+
+---
+
+## ❯ What I'm Building
 
 <div align="center">
 
-**Languages & Frameworks**
-
-<img src="https://img.shields.io/badge/PHP-0d1117?style=for-the-badge&logo=php&logoColor=white" />
-<img src="https://img.shields.io/badge/Laravel-0d1117?style=for-the-badge&logo=laravel&logoColor=white" />
-<img src="https://img.shields.io/badge/JavaScript-0d1117?style=for-the-badge&logo=javascript&logoColor=F7DF1E" />
-<img src="https://img.shields.io/badge/HTML5-0d1117?style=for-the-badge&logo=html5&logoColor=white" />
-
-<br/>
-
-**Database & Cache**
-
-<img src="https://img.shields.io/badge/MySQL-0d1117?style=for-the-badge&logo=mysql&logoColor=white" />
-<img src="https://img.shields.io/badge/Redis-0d1117?style=for-the-badge&logo=redis&logoColor=white" />
-<img src="https://img.shields.io/badge/SQLite-0d1117?style=for-the-badge&logo=sqlite&logoColor=white" />
-
-<br/>
-
-**DevOps & Tools**
-
-<img src="https://img.shields.io/badge/Docker-0d1117?style=for-the-badge&logo=docker&logoColor=white" />
-<img src="https://img.shields.io/badge/Nginx-0d1117?style=for-the-badge&logo=nginx&logoColor=white" />
-<img src="https://img.shields.io/badge/Linux-0d1117?style=for-the-badge&logo=linux&logoColor=white" />
-<img src="https://img.shields.io/badge/Git-0d1117?style=for-the-badge&logo=git&logoColor=white" />
-<img src="https://img.shields.io/badge/Composer-0d1117?style=for-the-badge&logo=composer&logoColor=white" />
-<img src="https://img.shields.io/badge/VS%20Code-0d1117?style=for-the-badge&logo=visual-studio-code&logoColor=white" />
+| 🛡️ Project | 📝 Description | ⭐ Stars |
+|---|---|---|
+| [laravel-threat-detection](https://github.com/jay123anta/laravel-threat-detection) | Real-time middleware detecting SQL injection, XSS, RCE & 40+ attack types | ![Stars](https://img.shields.io/github/stars/jay123anta/laravel-threat-detection?style=flat-square&color=111111&labelColor=000000&logo=star&logoColor=white) |
+| [laravel-api-versionist](https://github.com/jay123anta/laravel-api-versionist) | Intelligent API version manager — one codebase, infinite API versions | ![Stars](https://img.shields.io/github/stars/jay123anta/laravel-api-versionist?style=flat-square&color=111111&labelColor=000000&logo=star&logoColor=white) |
 
 </div>
 
+<br/>
+
 ---
 
-## GitHub Stats
+## ❯ Tech Stack
+
+<div align="center">
+
+<table>
+<tr>
+<td align="center" width="96">
+  <img src="https://techicons.dev/icons/php" width="48" height="48" alt="PHP" /><br/><sub><b>PHP</b></sub>
+</td>
+<td align="center" width="96">
+  <img src="https://techicons.dev/icons/laravel" width="48" height="48" alt="Laravel" /><br/><sub><b>Laravel</b></sub>
+</td>
+<td align="center" width="96">
+  <img src="https://techicons.dev/icons/javascript" width="48" height="48" alt="JavaScript" /><br/><sub><b>JavaScript</b></sub>
+</td>
+<td align="center" width="96">
+  <img src="https://techicons.dev/icons/mysql" width="48" height="48" alt="MySQL" /><br/><sub><b>MySQL</b></sub>
+</td>
+<td align="center" width="96">
+  <img src="https://techicons.dev/icons/redis" width="48" height="48" alt="Redis" /><br/><sub><b>Redis</b></sub>
+</td>
+<td align="center" width="96">
+  <img src="https://techicons.dev/icons/docker" width="48" height="48" alt="Docker" /><br/><sub><b>Docker</b></sub>
+</td>
+<td align="center" width="96">
+  <img src="https://techicons.dev/icons/linux" width="48" height="48" alt="Linux" /><br/><sub><b>Linux</b></sub>
+</td>
+<td align="center" width="96">
+  <img src="https://techicons.dev/icons/git" width="48" height="48" alt="Git" /><br/><sub><b>Git</b></sub>
+</td>
+</tr>
+</table>
+
+</div>
+
+<br/>
+
+---
+
+## ❯ GitHub Stats
 
 <div align="center">
 
@@ -95,9 +115,11 @@ Values    →  Simplicity · Reliability · Developer Experience
 
 </div>
 
+<br/>
+
 ---
 
-## Contribution Activity
+## ❯ Contribution Activity
 
 <div align="center">
 
@@ -105,9 +127,11 @@ Values    →  Simplicity · Reliability · Developer Experience
 
 </div>
 
+<br/>
+
 ---
 
-## Contribution Snake
+## ❯ Contribution Snake
 
 <div align="center">
 
@@ -119,10 +143,20 @@ Values    →  Simplicity · Reliability · Developer Experience
 
 </div>
 
+<br/>
+
 ---
 
 <div align="center">
 
-<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0:1a1a1a,100:000000&height=100&section=footer&animation=fadeIn" />
+<img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=dark&border=true&quote=Code+is+like+humor.+When+you+have+to+explain+it%2C+it%27s+bad.&author=Cory+House" />
+
+</div>
+
+<br/>
+
+<div align="center">
+
+<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0:1a1a1a,50:111111,100:000000&height=120&section=footer&text=Open+to+Collaborate&fontSize=18&fontColor=777777&fontAlignY=65&animation=fadeIn" />
 
 </div>
