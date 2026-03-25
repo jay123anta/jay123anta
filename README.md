@@ -4,7 +4,7 @@
 
 <!-- Animated typing -->
 <a href="https://github.com/jay123anta">
-  <img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=600&size=20&pause=1000&color=FFFFFF&center=true&vCenter=true&width=520&height=45&lines=🔐+Laravel+Security+Engineer;📦+Open+Source+Package+Author;⚙️+API+Architecture+Specialist;🛠️+Building+tools+developers+love." alt="Typing SVG" />
+  <img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=600&size=20&pause=1000&color=FFFFFF&center=true&vCenter=true&width=520&height=45&lines=Laravel+Security+Engineer;Open+Source+Package+Author;API+Architecture+Specialist;Building+tools+developers+love." alt="Typing SVG" />
 </a>
 
 <br/>
