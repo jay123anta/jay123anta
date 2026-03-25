@@ -66,34 +66,7 @@ Currently building tools in the **Laravel security & API versioning** space with
 
 <div align="center">
 
-<table>
-<tr>
-<td align="center" width="96">
-  <img src="https://techicons.dev/icons/php" width="48" height="48" alt="PHP" /><br/><sub><b>PHP</b></sub>
-</td>
-<td align="center" width="96">
-  <img src="https://techicons.dev/icons/laravel" width="48" height="48" alt="Laravel" /><br/><sub><b>Laravel</b></sub>
-</td>
-<td align="center" width="96">
-  <img src="https://techicons.dev/icons/javascript" width="48" height="48" alt="JavaScript" /><br/><sub><b>JavaScript</b></sub>
-</td>
-<td align="center" width="96">
-  <img src="https://techicons.dev/icons/mysql" width="48" height="48" alt="MySQL" /><br/><sub><b>MySQL</b></sub>
-</td>
-<td align="center" width="96">
-  <img src="https://techicons.dev/icons/redis" width="48" height="48" alt="Redis" /><br/><sub><b>Redis</b></sub>
-</td>
-<td align="center" width="96">
-  <img src="https://techicons.dev/icons/docker" width="48" height="48" alt="Docker" /><br/><sub><b>Docker</b></sub>
-</td>
-<td align="center" width="96">
-  <img src="https://techicons.dev/icons/linux" width="48" height="48" alt="Linux" /><br/><sub><b>Linux</b></sub>
-</td>
-<td align="center" width="96">
-  <img src="https://techicons.dev/icons/git" width="48" height="48" alt="Git" /><br/><sub><b>Git</b></sub>
-</td>
-</tr>
-</table>
+<img src="https://skillicons.dev/icons?i=php,laravel,js,html,mysql,redis,docker,nginx,linux,git,vscode,postman&theme=dark&perline=6" />
 
 </div>
 
